@@ -1,22 +1,23 @@
 ---
 layout: home
 paginate: true
-alt_title: "Basically Basic"
-sub_title: "Your new default Jekyll theme"
+alt_title: "Otávio Gomes"
+sub_title: "Essa é uma página no qual eu me apresento e deixo um pouco do que eu faço"
 image: /assets/xadrez.jpeg
 introduction: |
-  Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
-  - Clean responsive design with six customizable skins
-  - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-  - About page layout
-  - Disqus Comments and Google Analytics support
-  - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
-actions:
-  - label: "Get Started"
+  Navegação da Página:
+  - Você pode ler um pouco mais sobre mim na aba "Sobre".
+  - Meu currículo está disponível em "Curriculum Vitae".
+  
+  Você pode em encontrar em:
+  - label: "Github"
     icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+    url: "https://github.com/Otavio-G"
+  - label: "Twitter"
+    icon: twitter
+    url: "https://twitter.com/gomes_otav"
+  - label: "Linkedin"
+    icon: linkedin
+    url: "https://www.linkedin.com/in/gomesotavio"
 ---
