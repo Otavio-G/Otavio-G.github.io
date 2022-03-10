@@ -1,6 +1,6 @@
 ---
-title: "About"
-layout: about
+title: "Sobre"
+layout: sobre
 ---
 
 Olá,
