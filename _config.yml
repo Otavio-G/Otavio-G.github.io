@@ -22,7 +22,7 @@ url: https://otavio-g.github.io/ # the base hostname & protocol for your site e.
 author:
   name: Otávio Gomes
   twitter: gomes_otav
-  picture: /assets/me.jpeg
+  picture: /assets/me.png
 twitter_username: gomes_otav
 github_username: Otavio-G
 logo: # path of site logo, e.g. "/assets/images/logo.png"
