@@ -16,17 +16,17 @@
 lang: pt-BR
 title: Otávio's Awesome Site
 email: otas.gom@gmail.com
-description: 
+description: "Meu pedacinho pessoal nesse mar conhecido como web"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://otavio-g.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Otávio Gomes
-  twitter: https://twitter.com/gomes_otav
-  picture: 
+  twitter: gomes_otav
+  picture: /assets/me.jpeg
 twitter_username: gomes_otav
 github_username: Otavio-G
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -43,8 +43,8 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -65,14 +65,17 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - node_modules
-  - Rakefile
-  - README
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -83,3 +86,10 @@ defaults:
     values:
       layout: post
       read_time: true
+  # _articles
+  - scope:
+      path: "_articles"
+      type: articles
+    values:
+      layout: post
+      read_time: false
