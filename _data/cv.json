@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Otávio Gomes",
+    "label": "Humanamente Exato. Exatamente Humano.",
+    "picture": "",
+    "email": "otas.gom@gmail.com",
+    "website": "https://otavio-g.github.io/",
+    "summary": "",
+    "location": {
+      "countryCode": "BR",
+      "region": "Minas Gerais"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "gomes_otav",
+        "url": "https://twitter.com/gomes_otav"
+      },
+      {
+        "network": "Linkedin",
+        "username": "gomesotavio",
+        "url": "https://www.linkedin.com/in/gomesotavio"
+      }
+    ]
+  },
+  "trabalho": [
+    {
+      "company": "Instituto de Tecnologia e Sociedade do Rio de Janeiro - ITS-Rio",
+      "position": "Estagiário",
+      "website": "https://itsrio.org/",
+      "startDate": "Agosto 2021",
+      "endDate": "Presente",
+      "summary": "",
+      "highlights": [
+        "Colabora com o desenvolvimento de projetos como Pegabots e Mudamos+",
+        "Lida diariamente com ferramentas como github, AWS, Toggl e Slack"
+      ]
+    }
+  ],
+  "educação": [
+    {
+      "institution": "Universidade Federal de Viçosa",
+      "area": "Ciência da Computação",
+      "studyType": "Bacharelado",
+      "startDate": "2019",
+      "endDate": "Presente"
+    },
+    {
+      "institution": "Universidade Federal de Viçosa",
+      "area": "Informática",
+      "studyType": "Técnico",
+      "startDate": "2016",
+      "endDate": "2018"
+    }
+  ],
+  "publicações": [
+    {
+      "name": "Veja na seção Artigos Publicados",
+      "website": "https://otavio-g.github.io/articles/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Pesquisador",
+      "level": "Júnior",
+      "keywords": [
+        "Computação",
+        "Engenharia de Software",
+        "Ética",
+        "Computação Social"
+      ]
+    },
+    {
+      "name": "Programação Python",
+      "level": "Júnior",
+      "keywords": [
+        "Construção de API",
+        "Desenvolvimento de Aplicações"
+      ]
+    }
+  ],
+  "línguas": [
+    {
+      "language": "Português",
+      "fluency": "Falante Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Avançado"
+    }
+  ],
+  "interesses": [
+    {
+      "name": "Computadores e Sociedade",
+      "keywords": [
+        "Ética",
+        "Computação Social"
+      ]
+    }
+  ],
+  "referências na minha caminhada": [
+    {
+      "name": " Diego Cerqueira",
+      "reference": "Seu trabalho enquanto líder de projetos no ITS mostra sua dedicação, consciência e humanidade acerca do desenvolvimento de projetos de computação como propulsores de mudanças na sociedade."
+    },
+    {
+      "name": " Maria Luiza Mondelli",
+      "reference": "Seu trabalho enquanto cientista de dados no ITS inspira a todos ao seu redor, sendo capaz de promover análises aprofundadas e sempre trazendo insights maravilhosos. Inspiração em pessoa."
+    },
+    {
+      "name": " Gláucia Braga e Silva",
+      "reference": "Professora efetiva da Universidade Federal de Viçosa, sempre capaz de inpirar e motivar seus alunos a buscarem seguir seus sonhos. Humana e muito capaz."
+    },
+    {
+      "name": " Ronan Dutra Mendonça",
+      "reference": "Professor efetivo da Univesidade Federal de Viçosa, acreditou em mim desde o princípio, me motivando e mostrando os caminhos dentro da computação. Atualmente pesquisa sobre blockchain e suas aplicações. Ronan é uma pessoa muito capaz e humana."
+    }    
+  ]
+}
